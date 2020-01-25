@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "586940679628",
+    "firebase_url": "https://daftarbelanja-cccae.firebaseio.com",
+    "project_id": "daftarbelanja-cccae",
+    "storage_bucket": "daftarbelanja-cccae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586940679628:android:b4bc0b9ccd989d4b480969",
+        "android_client_info": {
+          "package_name": "com.example.daftarbelanja"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "586940679628-s0s98ps79nt9jaeac21en253l09can5a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCniiOrXb1OJJiXDSAhlOm6ktmgXMfRYyM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "586940679628-s0s98ps79nt9jaeac21en253l09can5a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
